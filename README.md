@@ -12,7 +12,7 @@
 
 
 ### About
-This repository demonstrates an end-to-end pipeline for real-time Facial emotion recognition application along with reccommending music based on detected emotions.
+This repository demonstrates an end-to-end pipeline for real-time Facial emotion recognition application along with recommending music based on detected emotions.
 Done in three steps:
 1. Face Detection: from the video source using OpenCV.
 2. Emotion Recognition: using a model trained by using Mediapipe library.
@@ -32,9 +32,6 @@ Seamless landing page filled with dark-theme.
 
 
 3. Detection of various gestures like [Hello, Thumbsup, Nope, Rock]
-
-
-
 
 
 ### Dependencies
